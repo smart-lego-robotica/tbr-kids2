@@ -1,4 +1,9 @@
-**Nível de bateria**
-**Cor Verde** -> Bateria Cheia (Voltage maior que 8200mV)
-**Cor Amarelo** -> Bateria Média (Voltage menor que 8200mV e maior que 7500mV)
-**Cor Verde** -> Bateria Fraca (Voltage maior que 8200mV)
+# 🔋 Nível de Bateria
+
+A cor do indicador representa o nível atual da bateria com base na voltagem medida:
+
+| Cor         | Nível da Bateria | Faixa de Voltagem         |
+|-------------|------------------|----------------------------|
+| 🟢 Verde    | Bateria Cheia    | Maior que 8200 mV          |
+| 🟡 Amarelo  | Bateria Média    | Entre 7500 mV e 8200 mV    |
+| 🔴 Vermelho | Bateria Fraca    | Menor que 7500 mV          |
